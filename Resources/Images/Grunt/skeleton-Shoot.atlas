@@ -1,0 +1,83 @@
+
+skeleton-Shoot.png
+size: 1020,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skeleton-Shoot0
+  rotate: false
+  xy: 2, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 11
+  index: -1
+skeleton-Shoot10
+  rotate: false
+  xy: 2, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 11
+  index: -1
+skeleton-Shoot1
+  rotate: false
+  xy: 104, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 8
+  index: -1
+skeleton-Shoot2
+  rotate: false
+  xy: 206, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 4
+  index: -1
+skeleton-Shoot3
+  rotate: false
+  xy: 308, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 6
+  index: -1
+skeleton-Shoot4
+  rotate: false
+  xy: 410, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 7
+  index: -1
+skeleton-Shoot5
+  rotate: false
+  xy: 512, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 9
+  index: -1
+skeleton-Shoot6
+  rotate: false
+  xy: 614, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 10
+  index: -1
+skeleton-Shoot7
+  rotate: false
+  xy: 716, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 11
+  index: -1
+skeleton-Shoot8
+  rotate: false
+  xy: 818, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 11
+  index: -1
+skeleton-Shoot9
+  rotate: false
+  xy: 920, 2
+  size: 100, 95
+  orig: 135, 159
+  offset: 17, 11
+  index: -1

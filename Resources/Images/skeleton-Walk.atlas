@@ -1,0 +1,111 @@
+
+skeleton-Walk.png
+size: 840,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skeleton-Walk0
+  rotate: false
+  xy: 2, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk1
+  rotate: false
+  xy: 58, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk2
+  rotate: false
+  xy: 114, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk3
+  rotate: false
+  xy: 170, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk4
+  rotate: false
+  xy: 226, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk5
+  rotate: false
+  xy: 282, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk6
+  rotate: false
+  xy: 338, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk7
+  rotate: false
+  xy: 394, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk8
+  rotate: false
+  xy: 450, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk9
+  rotate: false
+  xy: 506, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk10
+  rotate: false
+  xy: 562, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk11
+  rotate: false
+  xy: 618, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk12
+  rotate: false
+  xy: 674, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk13
+  rotate: false
+  xy: 730, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+skeleton-Walk14
+  rotate: false
+  xy: 786, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1

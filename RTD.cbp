@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="RTD" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="astar-algorithm (by Justin Heyes-Jones)/;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/RTD" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Debug" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/RTD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-std=c++0x" />
+					<Add directory="/usr/local/./include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+					<Add library="sfml-audio" />
+					<Add library="thor" />
+					<Add library="sfgui" />
+					<Add directory="/usr/local/./lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-O3" />
+			<Add option="-std=c++11" />
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="sfml-graphics" />
+			<Add library="sfml-window" />
+			<Add library="sfml-system" />
+			<Add library="sfml-audio" />
+		</Linker>
+		<Unit filename="Checkpoint.cpp" />
+		<Unit filename="Checkpoint.h" />
+		<Unit filename="Creep.cpp" />
+		<Unit filename="Creep.h" />
+		<Unit filename="Field.cpp" />
+		<Unit filename="Field.h" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="GameState.h" />
+		<Unit filename="Gui.cpp" />
+		<Unit filename="Gui.h" />
+		<Unit filename="HealthBar.cpp" />
+		<Unit filename="HealthBar.h" />
+		<Unit filename="MainGameState.cpp" />
+		<Unit filename="MainGameState.h" />
+		<Unit filename="MainMenuState.cpp" />
+		<Unit filename="MainMenuState.h" />
+		<Unit filename="Map.cpp" />
+		<Unit filename="Map.h" />
+		<Unit filename="MapObject.cpp" />
+		<Unit filename="MapObject.h" />
+		<Unit filename="MapSearchNode.cpp">
+			<Option virtualFolder="astar-algorithm (by Justin Heyes-Jones)/" />
+		</Unit>
+		<Unit filename="MapSearchNode.h">
+			<Option virtualFolder="astar-algorithm (by Justin Heyes-Jones)/" />
+		</Unit>
+		<Unit filename="MyHelperFunctions.cpp" />
+		<Unit filename="MyHelperFunctions.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="Projectile.cpp" />
+		<Unit filename="Projectile.h" />
+		<Unit filename="ResourceManager.cpp" />
+		<Unit filename="ResourceManager.h" />
+		<Unit filename="Rock.cpp" />
+		<Unit filename="Rock.h" />
+		<Unit filename="Singleton.h" />
+		<Unit filename="StateManager.cpp" />
+		<Unit filename="StateManager.h" />
+		<Unit filename="Tower.cpp" />
+		<Unit filename="Tower.h" />
+		<Unit filename="TowerManager.cpp" />
+		<Unit filename="TowerManager.h" />
+		<Unit filename="Wave.cpp" />
+		<Unit filename="Wave.h" />
+		<Unit filename="fsa.h">
+			<Option virtualFolder="astar-algorithm (by Justin Heyes-Jones)/" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="stlastar.h">
+			<Option virtualFolder="astar-algorithm (by Justin Heyes-Jones)/" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
